@@ -1,0 +1,23 @@
+Correlation computed: r = 0.6956 using 151 countries.
+Country lookup failed for 'pine'.
+Country lookup failed for 'korea'.
+Country lookup failed for '1'.
+Country lookup failed for 'korea'.
+Correlation computed: r = 0.6956 using 151 countries.
+Correlation computed: r = 0.6956 using 151 countries.
+Invalid menu choice entered: ''
+Program exit confirmed by user.
+Correlation computed: r = 0.6956 using 151 countries.
+Invalid menu choice entered: ''
+Invalid menu choice entered: ''
+Invalid menu choice entered: ''
+Invalid menu choice entered: ''
+Program exit confirmed by user.
+Program exit confirmed by user.
+Country lookup failed for 'korea'.
+Country lookup failed for 'south korea'.
+Correlation computed: r = 0.6956 using 151 countries.
+Correlation computed: r = 0.6956 using 151 countries.
+Program exit confirmed by user.
+Program exit confirmed by user.
+Program exit confirmed by user.
